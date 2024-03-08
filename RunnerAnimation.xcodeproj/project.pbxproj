@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D50B09AF2B9371B200839A4D /* PrimaryButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D50B09AE2B9371B200839A4D /* PrimaryButton.swift */; };
 		D5B3324E2B921C1D00A5DC6C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5B3324D2B921C1D00A5DC6C /* AppDelegate.swift */; };
 		D5B332502B921C1D00A5DC6C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5B3324F2B921C1D00A5DC6C /* SceneDelegate.swift */; };
 		D5B332522B921C1D00A5DC6C /* LottieViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5B332512B921C1D00A5DC6C /* LottieViewController.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D50B09AE2B9371B200839A4D /* PrimaryButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrimaryButton.swift; sourceTree = "<group>"; };
 		D5B3324A2B921C1D00A5DC6C /* RunnerAnimation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RunnerAnimation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D5B3324D2B921C1D00A5DC6C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D5B3324F2B921C1D00A5DC6C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -87,6 +89,7 @@
 			isa = PBXGroup;
 			children = (
 				D5B332682B9234A700A5DC6C /* CoreAnimationViewController.swift */,
+				D50B09AE2B9371B200839A4D /* PrimaryButton.swift */,
 			);
 			path = CoreAnimation;
 			sourceTree = "<group>";
@@ -171,6 +174,7 @@
 			files = (
 				D5B332692B9234A700A5DC6C /* CoreAnimationViewController.swift in Sources */,
 				D5B332522B921C1D00A5DC6C /* LottieViewController.swift in Sources */,
+				D50B09AF2B9371B200839A4D /* PrimaryButton.swift in Sources */,
 				D5B3324E2B921C1D00A5DC6C /* AppDelegate.swift in Sources */,
 				D5B332502B921C1D00A5DC6C /* SceneDelegate.swift in Sources */,
 			);
